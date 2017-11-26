@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Funktionsuntersuchung}{4}
+\contentsline {subsection}{\numberline {1.1}Nullestellenberechnung ganzrationaler Funktionen}{4}
+\contentsline {subsubsection}{\numberline {1.1.1}Lineare Funktion}{4}
+\contentsline {subsubsection}{\numberline {1.1.2}Quadratische Funktionen}{4}
+\contentsline {subsubsection}{\numberline {1.1.3}H\"ohergradige Funktionen}{5}
+\contentsline {subsection}{\numberline {1.2}Der Grad einer Funktion}{7}
