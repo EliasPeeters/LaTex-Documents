@@ -2,3 +2,4 @@
 \contentsline {subsection}{\numberline {1.1}Nouns and adjectives with prepositions}{3}
 \contentsline {subsection}{\numberline {1.2}Verbs and Adverbs}{4}
 \contentsline {subsection}{\numberline {1.3}Sentences for Nouns and Preposition}{5}
+\contentsline {subsection}{\numberline {1.4}A dialog with false friends}{6}
