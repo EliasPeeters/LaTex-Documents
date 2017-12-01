@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.14)  21 NOV 2017 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.14)  27 NOV 2017 21:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,7 +229,7 @@ n der par-la-men-tarischen Demokratie.
 Here is how much of TeX's memory you used:
  2296 strings out of 492995
  32440 string characters out of 6132703
- 93952 words of memory out of 5000000
+ 93943 words of memory out of 5000000
  5826 multiletter control sequences out of 15000+600000
  9489 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -239,7 +239,7 @@ ts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr17.pfb>
-Output written on WiPo.pdf (3 pages, 51134 bytes).
+Output written on WiPo.pdf (3 pages, 50503 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
