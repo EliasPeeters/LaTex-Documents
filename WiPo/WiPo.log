@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.14)  27 NOV 2017 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.14)  5 DEC 2017 09:41
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **WiPo.tex
 (./WiPo.tex
@@ -225,21 +224,22 @@ Overfull \hbox (17.14833pt too wide) in paragraph at lines 58--59
 n der par-la-men-tarischen Demokratie.
  []
 
+Missing character: There is no ö in font cmr10!
 [3] (./WiPo.aux) ) 
 Here is how much of TeX's memory you used:
  2296 strings out of 492995
  32440 string characters out of 6132703
- 93943 words of memory out of 5000000
+ 93946 words of memory out of 5000000
  5826 multiletter control sequences out of 15000+600000
  9489 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,26p,280b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,6n,26p,465b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr17.pfb>
-Output written on WiPo.pdf (3 pages, 50503 bytes).
+Output written on WiPo.pdf (3 pages, 53864 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
